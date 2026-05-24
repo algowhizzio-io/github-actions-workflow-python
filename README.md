@@ -1,6 +1,6 @@
-# GitHub Actions Lab 1.4: Pull Request CI for JavaScript and Python
+# GitHub Actions Lab 1.41: Pull Request CI for JavaScript and Python
 
-### Lab Objective 
+#### Lab Objective 
 
 In this lab, students learn how GitHub Actions runs continuous integration checks on a pull request before code is merged into `main`.
 
